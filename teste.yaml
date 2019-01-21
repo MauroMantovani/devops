@@ -1,6 +1,6 @@
 - name: testando git
   host: all
   tasks:
-- name: zuei
+   - name: zuei
      package:
       name: git
